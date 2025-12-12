@@ -7,7 +7,11 @@ meme_dict = {
   "FUNAR": "Cancelar o criticar algo";
   "STALKEAR": "Mirar perfiles en redes sociales sin interactuar";
   "CHEVERE": "Algo que esta bien hecho";
-  
+  "ROFL": "Una respuesta a una broma";
+  "SHEESH": "Ligera desaprobación";
+  "CREEPY": "Aterrado siniestro";
+  "AGGRO": "Ponerse agresivo/enojado";
+
 }
 word = input ("Escribe una palabra moderna que no entiebndas (¡Utiliza Mayusculas!): ")
 
